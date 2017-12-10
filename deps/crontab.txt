@@ -1,0 +1,1 @@
+*/1 * * * * /publicip2mqtt.sh >> /var/log/script.log
